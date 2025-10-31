@@ -1,0 +1,7 @@
+{
+  "name": "Izy Transcription Live",
+  "description": "Um aplicativo de transcrição ao vivo que usa a Web Speech API para converter sua fala em texto em tempo real, com funcionalidades para iniciar, parar, pausar e copiar o texto.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
